@@ -1,0 +1,9 @@
+1.first be sure that your folder is in c:\ drive
+1.now, run cmd as administrator
+2.then, change the directory to the this folder (C:\office)
+for this give the command: cd (C:\office)
+3.now, in this directory use this (setup /configure configuration.xml) command and hit enter button.
+4.now go back to the forlder and open the setup. now it will be installing your microsoft office.
+
+note: while istalling the system should have internet connection.
+ 
